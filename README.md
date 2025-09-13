@@ -29,11 +29,6 @@ L’objectif est de comprendre et d’implémenter les principales techniques ut
 * Illustration du **dropout bayésien** comme approximation
 * Visualisations de l’**incertitude prédictive**
 
-## Auteurs
 
-Projet réalisé dans le cadre du cours de *Modélisation stochastique et Deep Learning*, par :
-
-* \[Thierno Daouda LY]
-* \[Michel Junior DELANOUE]
 
 
